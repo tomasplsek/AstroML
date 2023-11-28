@@ -9,4 +9,6 @@ student_projects
 openai.ipynb
 openai.txt
 Galaxy10.h5
-logs
+keras_core.ipynb
+keras_core_jax.ipynb
+keras_core_pytorch.ipynb
